@@ -4,3 +4,6 @@ This repository is a collection of notes on mechanical motion of a rigid, or sof
 ## 📂 File structure
 - `notes` : a collection of markdown notes
 - `figures` : figures used in the notes
+
+## 🔗 Quick links
+[Ideas on the pendulum](/notes/00-ideas-and-exploration.md)
